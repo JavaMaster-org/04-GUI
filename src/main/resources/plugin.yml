@@ -1,0 +1,6 @@
+name: GUI
+version: '1.0'
+main: org.javamaster.gui.GUI
+api-version: '1.21'
+commands:
+  menu:
